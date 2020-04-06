@@ -10,7 +10,7 @@ contributors:
 
 ## Introduction
 
-Dynamic Programming is a powerful technique used for solving a particular class of problems as we will see. The idea is very simple, If you have solved a problem with the given input, then save the result for future reference, so as to avoid solving the same problem again.
+Dynamic Programming is the research for an optimized plan for a dynamic (i.e. changing) situation. A class of such solutions have been found for various problems, as will be introduced below. The idea is simple yet powerful: If you have solved a problem, you can save the result for future reference, and use that result to solve similar but bigger problems without solving the small problem again and again. The triky part is finding out how to break the bigger problem down to small problems so that the results are reused as much as possible. 
 
 Always remember!
 "Those who can't remember the past are condemned to repeat it"
